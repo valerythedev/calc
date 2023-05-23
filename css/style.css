@@ -13,7 +13,7 @@ body{
   justify-content: center;
   /* margin: 10%; */
  
-  background-image: url('/Users/valerygonzalez/Desktop/RC/Week-4/LAB/Calculator/img/bkg.png');
+  background-image: url('/img/bkg.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
